@@ -8,3 +8,5 @@ line5
 line6
 line7
 >>>>>>> newbranch
+8th line
+9th line
