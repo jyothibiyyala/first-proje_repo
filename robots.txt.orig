@@ -1,0 +1,16 @@
+line1
+line2
+line3
+<<<<<<< HEAD
+line4
+line5
+=======
+line6
+line7
+<<<<<<< HEAD
+>>>>>>> newbranch
+8th line
+9th line
+=======
+10th line
+>>>>>>> newbranch
